@@ -51,7 +51,7 @@
         <!--the version of shrinkwrap_resolver should align with the version in arquillian-bom-->
         <shrinkwrap-resolver.version>3.1.4</shrinkwrap-resolver.version>
         <selenium.version>3.14.0</selenium.version>
-        <arquillian-drone.version>2.5.1</arquillian-drone.version>
+        <arquillian-drone.version>2.5.2</arquillian-drone.version>
         <arquillian-graphene.version>2.3.2</arquillian-graphene.version>
         <arquillian-wildfly-container.version>2.1.1.Final</arquillian-wildfly-container.version>
         <arquillian-wls-container.version>1.0.1.Final</arquillian-wls-container.version>
@@ -442,7 +442,7 @@
                 <keycloak.connectionsJpa.driver>org.h2.Driver</keycloak.connectionsJpa.driver>
                 <keycloak.connectionsJpa.database>keycloak</keycloak.connectionsJpa.database>
                 <keycloak.connectionsJpa.user>sa</keycloak.connectionsJpa.user>
-                <keycloak.connectionsJpa.password></keycloak.connectionsJpa.password>
+                <keycloak.connectionsJpa.password/>
                 <keycloak.connectionsJpa.url>jdbc:h2:mem:test;MVCC=TRUE;DB_CLOSE_DELAY=-1</keycloak.connectionsJpa.url>
             </properties>
         </profile>
