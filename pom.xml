@@ -91,7 +91,7 @@
         <log4j.version>1.2.17</log4j.version>
         <resteasy.version>3.12.1.Final</resteasy.version>
         <resteasy.undertow.version>${resteasy.version}</resteasy.undertow.version>
-        <owasp.html.sanitizer.version>20191001.1</owasp.html.sanitizer.version>
+        <owasp.html.sanitizer.version>20200615.1</owasp.html.sanitizer.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <slf4j.version>1.7.30</slf4j.version>
         <sun.istack.version>3.0.10</sun.istack.version>
@@ -110,7 +110,7 @@
         <xmlsec.version>2.1.4</xmlsec.version>
         <glassfish.json.version>1.1.6</glassfish.json.version>
         <wildfly.common.version>1.5.2.Final</wildfly.common.version>
-        <ua-parser.version>1.4.3</ua-parser.version>
+        <ua-parser.version>1.4.4</ua-parser.version>
         <picketbox.version>5.0.3.Final-redhat-00005</picketbox.version>
         <google.guava.version>25.0-jre</google.guava.version>
 
@@ -127,7 +127,7 @@
         <freemarker.version>2.3.29</freemarker.version>
 
         <jetty9.version>${jetty92.version}</jetty9.version>
-        <liquibase.version>3.5.5</liquibase.version>
+        <liquibase.version>3.7.0</liquibase.version>
         <mysql.version>8.0.18</mysql.version>
         <osgi.version>4.2.0</osgi.version>
         <pax.web.version>7.1.0</pax.web.version>
