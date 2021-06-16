@@ -67,7 +67,7 @@
         <apache.httpcomponents.httpcore.version>4.4.13</apache.httpcomponents.httpcore.version>
         <apache.mime4j.version>0.6</apache.mime4j.version>
         <jboss.dmr.version>1.5.1.Final</jboss.dmr.version>
-        <bouncycastle.version>1.65</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <cxf.version>3.3.6</cxf.version>
         <cxf.jetty.version>3.3.6</cxf.jetty.version>
         <cxf.jaxrs.version>3.3.6</cxf.jaxrs.version>
@@ -78,7 +78,7 @@
         <hibernate.core.version>5.3.17.Final</hibernate.core.version>
         <hibernate.c3p0.version>5.3.17.Final</hibernate.c3p0.version>
         <infinispan.version>10.1.8.Final</infinispan.version>
-        <jackson.version>2.10.4</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
         <jackson.annotations.version>${jackson.databind.version}</jackson.annotations.version>
         <jakarta.mail.version>1.6.5</jakarta.mail.version>
