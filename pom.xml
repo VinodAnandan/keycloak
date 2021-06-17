@@ -78,7 +78,7 @@
         <hibernate.core.version>5.3.17.Final</hibernate.core.version>
         <hibernate.c3p0.version>5.3.17.Final</hibernate.c3p0.version>
         <infinispan.version>10.1.8.Final</infinispan.version>
-        <jackson.version>2.10.4</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
         <jackson.annotations.version>${jackson.databind.version}</jackson.annotations.version>
         <jakarta.mail.version>1.6.5</jakarta.mail.version>
@@ -127,7 +127,7 @@
         <freemarker.version>2.3.29</freemarker.version>
 
         <jetty9.version>${jetty92.version}</jetty9.version>
-        <liquibase.version>3.5.5</liquibase.version>
+        <liquibase.version>3.7.0</liquibase.version>
         <mysql.version>8.0.18</mysql.version>
         <osgi.version>4.2.0</osgi.version>
         <pax.web.version>7.1.0</pax.web.version>
